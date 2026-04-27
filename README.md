@@ -1,1 +1,3 @@
-![Apresentação da empresa Pintryx](Pintrix-slide1.jpeg)
+## Apresentação do Projeto
+
+![Apresentação](imagens/pintrix-slide1.jpeg)
